@@ -45,7 +45,7 @@ const spaceAttack = () => {
 
             }
             else{
-                console.log('your ship is been destroyed!')
+                console.log('your ship  is now been destroyed!')
             }
     
 }
